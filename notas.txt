@@ -1,0 +1,5 @@
+express = servidor
+
+dotenv = MÓDULO QUE CARREGA VARIÁVEIS DE CONFIGURAÇÃO EM UM AMBIENTE SEPARADO DO CÓDIGO - THE TWELVE-FACTOR AP
+nodemom = reinicia o servidor automaticamente
+npm start = inicia o servidor
